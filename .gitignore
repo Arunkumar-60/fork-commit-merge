@@ -3,4 +3,5 @@
 **/.lsp/
 **/.vscode/
 **/.DS_Store
+**/venv
 
